@@ -1,1 +1,2 @@
 file 2 what does touch do
+new line in feature 1 branch
