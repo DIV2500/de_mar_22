@@ -1,3 +1,2 @@
 first file this on git
-bash: wq!: command not found
-
+removed error code
